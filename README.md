@@ -84,16 +84,8 @@ At **[SaveLife.AI](https://savelife.ai)** I build **[AizaMD](https://app.aizamd.
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=shoaibghulam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shoaibghulam&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=shoaibghulam&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibghulam&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
-
-</div>
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=shoaibghulam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -101,7 +93,7 @@ At **[SaveLife.AI](https://savelife.ai)** I build **[AizaMD](https://app.aizamd.
 
 <div align="center">
 
-![Visitors](https://visitcount.itsvg.in/api?id=shoaibghulam&icon=0&color=0)
+![Profile views](https://komarev.com/ghpvc/?username=shoaibghulam&style=flat&color=1F4E79&label=Profile+views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:1F4E79&height=100&section=footer" width="100%" />
 
